@@ -1,0 +1,26 @@
+{
+  "name": "eyasu-portfolio",
+  "version": "1.0.0",
+  "description": "Eyasu Kerie - Electrical & Computer Engineer Portfolio with ERP Project",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site - no build needed'",
+    "start": "echo 'Portfolio is ready for deployment'"
+  },
+  "keywords": [
+    "portfolio",
+    "engineering",
+    "fullstack",
+    "erp",
+    "react",
+    "nextjs",
+    "postgresql"
+  ],
+  "author": "Eyasu Kerie",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/eyasu-portfolio"
+  }
+}
